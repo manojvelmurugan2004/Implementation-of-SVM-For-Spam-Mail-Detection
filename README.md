@@ -9,8 +9,11 @@ To write a program to implement the SVM For Spam Mail Detection.
 
 ## Algorithm
 STEP 1 : Gather a labeled dataset containing both spam and non-spam emails, with labels typically as 0 (non-spam) and 1 (spam)
+
 STEP 2 : Clean the email text by removing punctuation, converting text to lowercase, and removing stop words to reduce noise.
+
 STEP 3 : Split the dataset into training and testing sets, typically using an 80-20 or 70-30 ratio.
+
 STEP 4 : Train the SVM on the training data, allowing it to learn patterns associated with spam and non-spam emails.
 
 ## Program:
