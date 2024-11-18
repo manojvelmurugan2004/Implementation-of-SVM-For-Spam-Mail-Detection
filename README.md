@@ -69,8 +69,11 @@ accuracy
 
 ## Output:
 ![384794935-2b903aa2-7226-42c2-afae-03b12ebcbc65](https://github.com/user-attachments/assets/7b669ae4-92c4-494a-9980-e1e4dea98200)
+
 ![384794977-5d6c9720-b536-496b-9d8d-8c201dab4002](https://github.com/user-attachments/assets/38c59dad-89fb-4619-8f1d-5d63086550bf)
+
 ![384795025-d6994dbd-4c5f-4df5-8845-99a68656b101](https://github.com/user-attachments/assets/7b1bb370-c08e-4a25-b9a8-5ee3f1dc8cfd)
+
 ## Accuracy
 ![384795075-dba52b05-04e6-4fd6-b7d9-c965d651cece](https://github.com/user-attachments/assets/2082d7d7-5821-4421-91bc-90bd21446452)
 
